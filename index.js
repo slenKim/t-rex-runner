@@ -119,7 +119,7 @@
         MAX_OBSTACLE_LENGTH: 3,
         MAX_OBSTACLE_DUPLICATION: 2,
         MAX_SPEED: 13,
-        MIN_JUMP_HEIGHT: 35,
+        MIN_JUMP_HEIGHT: 300,
         MOBILE_SPEED_COEFFICIENT: 1.2,
         RESOURCE_TEMPLATE_ID: 'audio-resources',
         SPEED: 6,
